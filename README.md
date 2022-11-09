@@ -9,7 +9,8 @@ Self-taught and enthusiastic about New Technologies
 </div>
 
 ### Programming Languages 🌐
-
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)   | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="24">](https://www.javascript.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="24">](https://reactjs.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="24">](https://developers.redhat.com/java/red-hat-and-java)
+|---|---|---|---|
 
 ### Tools 🛠️
 
